@@ -2,7 +2,7 @@
 
 ## :octocat: I'm AKHILESH
 
-A second year student pursuing a BTech in Computer Science Engineering at College of Engineering Munnar, Kerala.
+A student pursuing a BTech in Computer Science Engineering at College of Engineering Munnar, Kerala.
 
 ## :octocat: OPEN TO WORK
 
